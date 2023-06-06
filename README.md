@@ -1,6 +1,7 @@
 # cutom-tshirt-generator-by-three.js
-<h1> cutom-tshirt-generator-by-three.js <h1/>
-![Image Alt Text](path/to/your/image.png)
+
+![Image Alt Text](git1.png)
+![Image Alt Text](git2.png)
 
   In this Project, we'll learn the following:
 
